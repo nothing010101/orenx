@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charSet="utf-8" data-next-head=""/>
+        <meta name="viewport" content="width=device-width, initial-scale=1" data-next-head=""/>
+        <link rel="icon" href="/favicon.svg" sizes="any"/>
+        <title data-next-head="">Orexn - The Launch Space for Web3 Communities</title>
+        <meta name="description" content="Discover crypto&#x27;s next big opportunities with Orexn. Get early access to exclusive IDOs, token launches, airdrops, and presales before they go public. Join the Web3 revolution today." data-next-head=""/>
+        <meta name="keywords" content="crypto IDO, token launch, airdrop, Web3 platform, presale, blockchain, DeFi, early access, crypto investment, token sale, launchpad, Telegram mini app" data-next-head=""/>
+        <link rel="icon" href="/favicon.svg" data-next-head=""/>
+        <meta name="google-site-verification" content="HxOp33k6vuI4fha0OvMLhjMLZwdDEDV3knguaITG4Xo" data-next-head=""/>
+        <link rel="preload" href="/_next/static/media/e4af272ccee01ff0-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust"/>
+        <link rel="preload" href="/_next/static/media/6975cac0a7ae24f4-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust"/>
+        <link rel="preload" href="/_next/static/css/69b37754839f49c3.css" as="style"/>
+        <link rel="preload" href="/_next/static/css/76ca1091c123b2c1.css" as="style"/>
+        <link rel="preload" as="image" imageSrcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=1920&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=3840&amp;q=75 2x" data-next-head=""/>
+        <link rel="stylesheet" href="/_next/static/css/69b37754839f49c3.css" data-n-g=""/>
+        <link rel="stylesheet" href="/_next/static/css/76ca1091c123b2c1.css" data-n-p=""/>
+        <noscript data-n-css=""></noscript>
+        <script defer="" noModule="" src="/_next/static/chunks/polyfills-42372ed130431b0a.js"></script>
+        <script src="/_next/static/chunks/webpack-fbb920bddf9bf0a6.js" defer=""></script>
+        <script src="/_next/static/chunks/framework-a4ddb9b21624b39b.js" defer=""></script>
+        <script src="/_next/static/chunks/main-bbb1445b1d63b611.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/_app-0af648dd56ef5990.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/index-b19e8a05594e630d.js" defer=""></script>
+        <script src="/_next/static/lY1CRBmXqlubC2Aq2h1N_/_buildManifest.js" defer=""></script>
+        <script src="/_next/static/lY1CRBmXqlubC2Aq2h1N_/_ssgManifest.js" defer=""></script>
+        <style id="__jsx-f424c622a57dee99">
+            @-webkit-keyframes float {
+                0%,100% {
+                    -webkit-transform: translatey(0px)rotate(0deg);
+                    transform: translatey(0px)rotate(0deg)
+                }
+
+                50% {
+                    -webkit-transform: translatey(-10px)rotate(1deg);
+                    transform: translatey(-10px)rotate(1deg)
+                }
+            }
+
+            @-moz-keyframes float {
+                0%,100% {
+                    -moz-transform: translatey(0px)rotate(0deg);
+                    transform: translatey(0px)rotate(0deg)
+                }
+
+                50% {
+                    -moz-transform: translatey(-10px)rotate(1deg);
+                    transform: translatey(-10px)rotate(1deg)
+                }
+            }
+
+            @-o-keyframes float {
+                0%,100% {
+                    -o-transform: translatey(0px)rotate(0deg);
+                    transform: translatey(0px)rotate(0deg)
+                }
+
+                50% {
+                    -o-transform: translatey(-10px)rotate(1deg);
+                    transform: translatey(-10px)rotate(1deg)
+                }
+            }
+
+            @keyframes float {
+                0%,100% {
+                    -webkit-transform: translatey(0px)rotate(0deg);
+                    -moz-transform: translatey(0px)rotate(0deg);
+                    -o-transform: translatey(0px)rotate(0deg);
+                    transform: translatey(0px)rotate(0deg)
+                }
+
+                50% {
+                    -webkit-transform: translatey(-10px)rotate(1deg);
+                    -moz-transform: translatey(-10px)rotate(1deg);
+                    -o-transform: translatey(-10px)rotate(1deg);
+                    transform: translatey(-10px)rotate(1deg)
+                }
+            }
+        </style>
+    </head>
+    <body class="antialiased">
+        <link rel="preload" as="image" imageSrcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=1920&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=3840&amp;q=75 2x"/>
+        <div id="__next">
+            <div class="flex flex-col h-screen justify-between ">
+                <div class="fixed top-0 left-0 right-0 backdrop-blur-sm z-50 transition-all duration-300 bg-transparent">
+                    <div class="container mx-auto px-4">
+                        <div class="relative py-6" data-headlessui-state="">
+                            <div class="flex items-center justify-between">
+                                <a class="flex-shrink-0" href="/">
+                                    <img alt="Orexn" loading="eager" width="1565" height="390" decoding="async" data-nimg="1" class="h-6 w-auto md:h-7" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=1920&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=3840&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=3840&amp;q=75"/>
+                                </a>
+                                <div class="hidden lg:flex lg:items-center lg:gap-x-8 border border-zinc-800 bg-neutral-900 rounded-full px-8 py-3">
+                                    <a class="text-base font-medium text-white hover:text-neutral-300" href="/#home">Home</a>
+                                    <a class="text-base font-medium text-white hover:text-neutral-300" href="/#products">Products</a>
+                                    <a class="text-base font-medium text-white hover:text-neutral-300" href="/#features">Features</a>
+                                    <a class="text-base font-medium text-white hover:text-neutral-300" href="/#faq">FAQ</a>
+                                    <div class="relative" data-headlessui-state="">
+                                        <button class="flex items-center text-base font-medium text-white hover:text-neutral-300 focus:outline-none" type="button" aria-expanded="false" data-headlessui-state="">
+                                            Community
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down ml-1 h-4 w-4 transition-transform">
+                                                <path d="m6 9 6 6 6-6"></path>
+                                            </svg>
+                                        </button>
+                                    </div>
+                                    <span hidden="" style="position:fixed;top:1px;left:1px;width:1px;height:0;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none"></span>
+                                </div>
+                                <div class="hidden lg:flex lg:items-center lg:gap-x-6">
+                                    <button class="flex items-center gap-3 rounded-full bg-white pl-6 text-base font-bold text-neutral-900 hover:bg-white/90 transition-colors">
+                                        Join Whitelist
+                                        <span class="flex items-center justify-center py-2.5 w-12 h-12 bg-indigo-300 text-neutral-700 rounded-full">
+                                            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                <line x1="7" y1="17" x2="17" y2="7"></line>
+                                                <polyline points="7 7 17 7 17 17"></polyline>
+                                            </svg>
+                                        </span>
+                                    </button>
+                                </div>
+                                <div class="flex items-center gap-4 lg:hidden">
+                                    <button class="flex items-center gap-3 rounded-full bg-white pl-6 text-base font-bold text-neutral-900 hover:bg-white/90 transition-colors">
+                                        Join Whitelist
+                                        <span class="flex items-center justify-center py-2.5 w-12 h-12 bg-indigo-300 text-neutral-700 rounded-full">
+                                            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                <line x1="7" y1="17" x2="17" y2="7"></line>
+                                                <polyline points="7 7 17 7 17 17"></polyline>
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <button class="inline-flex items-center justify-center rounded-md p-2 text-white hover:bg-neutral-800 hover:text-neutral-300" type="button" aria-expanded="false" data-headlessui-state="">
+                                        <span class="sr-only">Open menu</span>
+                                        <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"></path>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <span hidden="" style="position:fixed;top:1px;left:1px;width:1px;height:0;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none"></span>
+                    </div>
+                </div>
+                <section class="Toastify" aria-live="polite" aria-atomic="false" aria-relevant="additions text" aria-label="Notifications Alt+T"></section>
+                <div class="flex-grow">
+                    <main>
+                        <main class="__className_e8ce0c bg-gradient-to-br from-neutral-900 via-blackc to-neutral-900">
+                            <section id="home">
+                                <div class="min-h-screen relative overflow-hidden pt-28">
+                                    <div class="absolute inset-0">
+                                        <div class="absolute top-0 left-1/4 w-96 h-96 bg-brand/5 rounded-full blur-3xl opacity-40"></div>
+                                        <div class="absolute bottom-1/4 right-1/4 w-80 h-80 bg-bluec/5 rounded-full blur-3xl opacity-30"></div>
+                                        <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] bg-gradient-to-r from-orangec/3 to-indigoc/3 rounded-full blur-3xl opacity-20"></div>
+                                    </div>
+                                    <div class="relative z-10 flex flex-col items-center justify-center min-h-screen px-6 md:px-8">
+                                        <div class="max-w-7xl mx-auto text-center overflow-hidden">
+                                            <div class="space-y-10 mt-20 mb-14">
+                                                <a href="https://t.me/Orexnbot" target="_black" class="inline-flex items-center px-6 py-3 bg-white/5 border border-white/10 rounded-full backdrop-blur-sm">
+                                                    <div class="w-3 h-3 bg-lime-500 rounded-full mr-4 animate-pulse"></div>
+                                                    <span class="font-mono uppercase text-base font-medium text-neutral-300">OXN Farming is LIVE</span>
+                                                    <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="ml-3" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
+                                                        <line x1="7" y1="17" x2="17" y2="7"></line>
+                                                        <polyline points="7 7 17 7 17 17"></polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="relative">
+                                                    <div class="absolute inset-0 flex items-center justify-center">
+                                                        <div class="bg-brand/30 blur-2xl w-48 h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 rounded-full opacity-70 animate-pulse"></div>
+                                                    </div>
+                                                    <h1 class="__className_7620cf relative z-10 text-5xl md:text-7xl lg:text-8xl xl:text-9xl font-bold tracking-tight text-white leading-tight">Your Gateway to Crypto &#x27;s First</h1>
+                                                </div>
+                                                <p class="max-w-3xl mx-auto text-xl md:text-2xl lg:text-3xl text-neutral-400 leading-relaxed font-light">Discover crypto &#x27;s next big thing. Exclusive launches, airdrops, and IDOs – before anyone else.</p>
+                                            </div>
+                                            <div class="space-y-8 mb-24">
+                                                <form class="flex flex-row gap-3 justify-center items-center max-w-2xl mx-auto">
+                                                    <div class="relative flex-1">
+                                                        <input type="email" placeholder="Enter your email" class="w-full bg-white/10 backdrop-blur-md text-white border border-white/30 rounded-2xl text-base md:text-lg px-4 md:px-6 py-4 md:py-5 placeholder:text-neutral-400 focus:outline-none focus:ring-4 focus:ring-brand/30 focus:border-brand/50 transition-all duration-300 shadow-lg" value=""/>
+                                                        <div class="absolute inset-0 bg-gradient-to-r from-brand/20 to-bluec/20 rounded-2xl opacity-0 focus-within:opacity-100 transition-opacity duration-300 -z-10 blur-xl"></div>
+                                                    </div>
+                                                    <button type="submit" class="group flex items-center justify-center px-4 md:px-8 py-4 md:py-5 bg-brand text-neutral-100 text-base md:text-lg font-semibold rounded-2xl hover:bg-brand/90 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-redc/20 disabled:opacity-50 disabled:cursor-not-allowed whitespace-nowrap">
+                                                        <span class="hidden sm:inline">Join Whitelist</span>
+                                                        <span class="sm:hidden">Join Whitelist</span>
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right ml-2 md:ml-3 h-5 w-5 md:h-6 md:w-6 group-hover:translate-x-1 transition-transform">
+                                                            <path d="M5 12h14"></path>
+                                                            <path d="m12 5 7 7-7 7"></path>
+                                                        </svg>
+                                                    </button>
+                                                </form>
+                                                <div class="flex flex-col items-center text-center pt-6">
+                                                    <div class="flex  items-center gap-8 md:gap-10">
+                                                        <a target="_blank" rel="noopener noreferrer" class="text-neutral-500 hover:text-neutral-300 transition-colors transform hover:scale-110 duration-300" aria-label="Twitter" href="https://x.com/OrexnX">
+                                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="md:w-8 md:h-8" height="28" width="28" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"></path>
+                                                            </svg>
+                                                        </a>
+                                                        <a target="_blank" rel="noopener noreferrer" class="text-neutral-500 hover:text-neutral-300 transition-colors transform hover:scale-110 duration-300" aria-label="Telegram" href="https://t.me/OrexnApp">
+                                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" class="md:w-8 md:h-8" height="28" width="28" xmlns="http://www.w3.org/2000/svg">
+                                                                <path d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"></path>
+                                                            </svg>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="absolute inset-0 opacity-10 pointer-events-none">
+                                        <div class="absolute inset-0" style="background-image:radial-gradient(circle at 1px 1px, rgba(255,255,255,0.15) 1px, transparent 0);background-size:20px 20px"></div>
+                                    </div>
+                                    <section class="Toastify" aria-live="polite" aria-atomic="false" aria-relevant="additions text" aria-label="Notifications Alt+T"></section>
+                                </div>
+                            </section>
+                            <div class="mx-auto max-w-7xl border-t border-white/10 pt-5 over">
+                                <div class="py-8 sm:py-12 overflow-hidden">
+                                    <div class="max-w-7xl mx-auto px-4">
+                                        <div class="text-center mb-6 sm:mb-8 w-full">
+                                            <div class="text-base font-medium text-gray-300">Support by major blockchains</div>
+                                        </div>
+                                        <div class="sm:hidden w-full overflow-hidden relative">
+                                            <div class="flex animate-infinite-scroll space-x-8 hover:pause w-max">
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="ETH" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="BNB" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="BASE" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="BASE" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="ETH" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="BNB" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="ETH" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="BNB" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="BASE" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="BASE" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="ETH" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex-shrink-0 flex items-center justify-center w-20 h-12">
+                                                    <img alt="BNB" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="hidden sm:flex justify-center items-center">
+                                            <div class="grid grid-cols-6 gap-4 md:gap-12 items-center justify-items-center w-full max-w-5xl">
+                                                <div class="flex items-center justify-center w-24 md:w-28 h-14 md:h-10">
+                                                    <img alt="ETH" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB6.78d0858a.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex items-center justify-center w-24 md:w-28 h-14 md:h-10">
+                                                    <img alt="BNB" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB3.30f2e821.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex items-center justify-center w-24 md:w-28 h-14 md:h-10">
+                                                    <img alt="BASE" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB4.97cc7a8c.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex items-center justify-center w-24 md:w-28 h-14 md:h-10">
+                                                    <img alt="BASE" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB2.b1f496dd.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex items-center justify-center w-24 md:w-28 h-14 md:h-10">
+                                                    <img alt="ETH" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB5.295cdbfe.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                                <div class="flex items-center justify-center w-24 md:w-28 h-14 md:h-10">
+                                                    <img alt="BNB" loading="lazy" width="120" height="60" decoding="async" data-nimg="1" class="object-contain w-full h-full opacity-70 hover:opacity-100 transition-opacity duration-300" style="color:transparent;max-width:100%;height:auto" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=128&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=256&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDB1.0237a8ef.png&amp;w=256&amp;q=75"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <section id="products">
+                                <div class="overflow-x-hidden px-4 relative py-10 lg:py-20">
+                                    <div class="absolute inset-0">
+                                        <div class="absolute top-0 left-1/4 w-96 h-96 bg-neutral-800/20 rounded-full blur-3xl opacity-30"></div>
+                                        <div class="absolute bottom-1/4 right-1/4 w-80 h-80 bg-neutral-700/20 rounded-full blur-3xl opacity-20"></div>
+                                    </div>
+                                    <div class="flex flex-col justify-center text-center space-y-6 max-w-6xl mx-auto pt-20 mb-10 relative z-10">
+                                        <div class="z-10">
+                                            <div class="font-mono uppercase text-orangec text-base font-medium mb-4">Products</div>
+                                            <h2 class="font-display md:mt-6 text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight text-white leading-tight">The Launch Space for Web3 Communities</h2>
+                                        </div>
+                                        <p class="text-xl md:text-2xl lg:text-3xl text-neutral-400 leading-relaxed font-light lg:px-24">Join, discover, and earn - all in one place. Experience the next generation of Web3 with Orexn</p>
+                                    </div>
+                                    <div class="max-w-7xl mx-auto z-10 pt-3 md:pt-14 md:py-3 relative">
+                                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+                                            <div class="relative p-8 md:p-12 rounded-3xl text-start flex flex-col justify-start shadow-2xl aspect-square overflow-hidden bg-neutral-900/80 backdrop-blur-sm border border-neutral-800/50">
+                                                <div class="absolute inset-0 z-0">
+                                                    <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover opacity-100" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="100vw" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange3.875092da.png&amp;w=3840&amp;q=75"/>
+                                                    <div class="absolute inset-0 bg-gradient-to-br from-neutral-900/70 via-neutral-900/10 to-neutral-900/70"></div>
+                                                </div>
+                                                <div class="relative z-10">
+                                                    <div class="__className_7620cf font-bold text-2xl md:text-2xl xl:text-2xl leading-tight text-orangec mb-4">Quest</div>
+                                                    <p class="text-xl xl:text-3xl text-neutral-300 leading-relaxed">Complete challenges and earn rewards while discovering projects in the crypto ecosystem.</p>
+                                                </div>
+                                            </div>
+                                            <div class="relative p-8 md:p-12 rounded-3xl text-start flex flex-col justify-start shadow-2xl aspect-square overflow-hidden bg-neutral-900/80 backdrop-blur-sm border border-neutral-800/50">
+                                                <div class="absolute inset-0 z-0">
+                                                    <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover opacity-100" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="100vw" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forange.e1a26ddb.png&amp;w=3840&amp;q=75"/>
+                                                    <div class="absolute inset-0 bg-gradient-to-br from-neutral-900/70 via-neutral-900/10 to-neutral-900/70"></div>
+                                                </div>
+                                                <div class="relative z-10">
+                                                    <div class="__className_7620cf font-bold text-2xl md:text-2xl xl:text-2xl leading-tight text-orangec mb-4">Orexn Launch</div>
+                                                    <p class="text-xl xl:text-3xl text-neutral-300 leading-relaxed">Get early access to promising IDO and token launches before they go public.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                                            <div class="relative p-6 md:p-8 rounded-3xl text-start flex flex-col justify-end shadow-xl min-h-[240px] md:min-h-[280px] overflow-hidden bg-neutral-900/80 backdrop-blur-sm border border-neutral-800/50">
+                                                <div class="relative z-10">
+                                                    <div class="__className_7620cf font-bold text-2xl md:text-3xl xl:text-4xl leading-tight text-white mb-4">Spaces</div>
+                                                    <p class="text-sm md:text-base xl:text-lg text-neutral-300 leading-relaxed">Connect with communities and engage in exclusive project discussions.</p>
+                                                </div>
+                                            </div>
+                                            <div class="relative p-6 md:p-8 rounded-3xl text-start flex flex-col justify-end shadow-xl min-h-[240px] md:min-h-[280px] overflow-hidden bg-neutral-900/80 backdrop-blur-sm border border-neutral-800/50">
+                                                <div class="relative z-10">
+                                                    <div class="__className_7620cf font-bold text-2xl md:text-3xl xl:text-4xl leading-tight text-white mb-4">Build</div>
+                                                    <p class="text-sm md:text-base xl:text-lg text-neutral-300 leading-relaxed">Launch your Web3 project with our tools and community support ecosystem</p>
+                                                </div>
+                                            </div>
+                                            <div class="relative p-6 md:p-8 rounded-3xl text-start flex flex-col justify-end shadow-xl min-h-[240px] md:min-h-[280px] overflow-hidden bg-neutral-900/80 backdrop-blur-sm border border-neutral-800/50">
+                                                <div class="relative z-10">
+                                                    <div class="__className_7620cf font-bold text-2xl md:text-3xl xl:text-4xl leading-tight text-white mb-4">Farm</div>
+                                                    <p class="text-sm md:text-base xl:text-lg text-neutral-300 leading-relaxed">Earn passive rewards by joining community and earn new tokens.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="absolute inset-0 opacity-5 pointer-events-none">
+                                        <div class="absolute inset-0" style="background-image:radial-gradient(circle at 1px 1px, rgba(255,255,255,0.1) 1px, transparent 0);background-size:30px 30px"></div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="features">
+                                <div class="relative py-20">
+                                    <div class="absolute inset-0 opacity-30">
+                                        <div class="absolute inset-0" style="background-image:radial-gradient(circle at 1px 1px, rgba(255,255,255,0.03) 1px, transparent 0);background-size:32px 32px"></div>
+                                    </div>
+                                    <div class="relative z-10 max-w-7xl mx-auto px-4">
+                                        <div class="text-center mb-20">
+                                            <div class="inline-block px-4 py-2">
+                                                <span class="font-mono uppercase text-orangec text-base font-medium mb-4">Features</span>
+                                            </div>
+                                            <h2 class="__className_7620cf text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">Everything you need for Web3</h2>
+                                            <p class="text-xl md:text-2xl lg:text-3xl text-neutral-400 leading-relaxed font-light lg:px-24">Discover, participate, and earn in the decentralized ecosystem with our comprehensive platform.</p>
+                                        </div>
+                                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                                            <div class="group relative bg-neutral-900/50 hover:bg-neutral-900/80 border border-neutral-800/50 hover:border-neutral-700/50 rounded-2xl p-8 transition-all duration-500 hover:scale-[1.02]">
+                                                <div class="absolute inset-0 bg-gradient-to-br from-white/[0.02] to-transparent rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                                                <div class="relative z-10 space-y-4">
+                                                    <div class="w-12 h-12 bg-white/5 group-hover:bg-white/10 rounded-xl flex items-center justify-center transition-colors duration-300">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-zap text-white/70 group-hover:text-white transition-colors duration-300">
+                                                            <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path>
+                                                        </svg>
+                                                    </div>
+                                                    <h3 class="text-xl font-semibold text-white/90 group-hover:text-white transition-colors duration-300">All-in-One Platform</h3>
+                                                    <p class="text-white/50 group-hover:text-white/70 leading-relaxed text-sm transition-colors duration-300">Access token launches, airdrops, IDOs, and launchpools to earn crypto</p>
+                                                </div>
+                                            </div>
+                                            <div class="group relative bg-neutral-900/50 hover:bg-neutral-900/80 border border-neutral-800/50 hover:border-neutral-700/50 rounded-2xl p-8 transition-all duration-500 hover:scale-[1.02]">
+                                                <div class="absolute inset-0 bg-gradient-to-br from-white/[0.02] to-transparent rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                                                <div class="relative z-10 space-y-4">
+                                                    <div class="w-12 h-12 bg-white/5 group-hover:bg-white/10 rounded-xl flex items-center justify-center transition-colors duration-300">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe text-white/70 group-hover:text-white transition-colors duration-300">
+                                                            <circle cx="12" cy="12" r="10"></circle>
+                                                            <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path>
+                                                            <path d="M2 12h20"></path>
+                                                        </svg>
+                                                    </div>
+                                                    <h3 class="text-xl font-semibold text-white/90 group-hover:text-white transition-colors duration-300">Multi-Chain Support</h3>
+                                                    <p class="text-white/50 group-hover:text-white/70 leading-relaxed text-sm transition-colors duration-300">Seamlessly interact across Ethereum, Solana, TON, Base, and other networks.</p>
+                                                </div>
+                                            </div>
+                                            <div class="group relative bg-neutral-900/50 hover:bg-neutral-900/80 border border-neutral-800/50 hover:border-neutral-700/50 rounded-2xl p-8 transition-all duration-500 hover:scale-[1.02]">
+                                                <div class="absolute inset-0 bg-gradient-to-br from-white/[0.02] to-transparent rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                                                <div class="relative z-10 space-y-4">
+                                                    <div class="w-12 h-12 bg-white/5 group-hover:bg-white/10 rounded-xl flex items-center justify-center transition-colors duration-300">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-users text-white/70 group-hover:text-white transition-colors duration-300">
+                                                            <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
+                                                            <circle cx="9" cy="7" r="4"></circle>
+                                                            <path d="M22 21v-2a4 4 0 0 0-3-3.87"></path>
+                                                            <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                                                        </svg>
+                                                    </div>
+                                                    <h3 class="text-xl font-semibold text-white/90 group-hover:text-white transition-colors duration-300">Governance</h3>
+                                                    <p class="text-white/50 group-hover:text-white/70 leading-relaxed text-sm transition-colors duration-300">Participate in community decisions through transparent voting mechanisms.</p>
+                                                </div>
+                                            </div>
+                                            <div class="group relative bg-neutral-900/50 hover:bg-neutral-900/80 border border-neutral-800/50 hover:border-neutral-700/50 rounded-2xl p-8 transition-all duration-500 hover:scale-[1.02]">
+                                                <div class="absolute inset-0 bg-gradient-to-br from-white/[0.02] to-transparent rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                                                <div class="relative z-10 space-y-4">
+                                                    <div class="w-12 h-12 bg-white/5 group-hover:bg-white/10 rounded-xl flex items-center justify-center transition-colors duration-300">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-trophy text-white/70 group-hover:text-white transition-colors duration-300">
+                                                            <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+                                                            <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+                                                            <path d="M4 22h16"></path>
+                                                            <path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path>
+                                                            <path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path>
+                                                            <path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path>
+                                                        </svg>
+                                                    </div>
+                                                    <h3 class="text-xl font-semibold text-white/90 group-hover:text-white transition-colors duration-300">Gamified Quests</h3>
+                                                    <p class="text-white/50 group-hover:text-white/70 leading-relaxed text-sm transition-colors duration-300">Complete challenges and earn rewards while discovering new projects.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="faq">
+                                <div class="container mx-auto px-8 flex flex-col max-w-5xl mt-10 md:mt-14 py-20" id="faq">
+                                    <h2 class="text-6xl md:text-6xl lg:text-7xl font-display leading-none text-center font-bold text-white relative mb-8 md:mb-12">FAQ</h2>
+                                    <dl class="mt-6 space-y-8 divide-y divide-gray-200/20">
+                                        <div class="pt-8" data-headlessui-state="">
+                                            <dt class="text-xl md:text-2xl">
+                                                <button class="text-left w-full flex justify-between items-start text-gray-400 hover:text-white transition-colors" id="headlessui-disclosure-button-:R16mm:" type="button" aria-expanded="false" data-headlessui-state="">
+                                                    <span class="font-semibold text-gray-200 leading-relaxed pr-4">What is Orexn?</span>
+                                                    <span class="ml-6 h-7 flex items-center flex-shrink-0">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down rotate-0 h-7 w-7 transform transition-transform duration-200" aria-hidden="true">
+                                                            <path d="m6 9 6 6 6-6"></path>
+                                                        </svg>
+                                                    </span>
+                                                </button>
+                                            </dt>
+                                        </div>
+                                        <div class="pt-8" data-headlessui-state="">
+                                            <dt class="text-xl md:text-2xl">
+                                                <button class="text-left w-full flex justify-between items-start text-gray-400 hover:text-white transition-colors" id="headlessui-disclosure-button-:R1amm:" type="button" aria-expanded="false" data-headlessui-state="">
+                                                    <span class="font-semibold text-gray-200 leading-relaxed pr-4">How does the Orexn Launch platform work?</span>
+                                                    <span class="ml-6 h-7 flex items-center flex-shrink-0">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down rotate-0 h-7 w-7 transform transition-transform duration-200" aria-hidden="true">
+                                                            <path d="m6 9 6 6 6-6"></path>
+                                                        </svg>
+                                                    </span>
+                                                </button>
+                                            </dt>
+                                        </div>
+                                        <div class="pt-8" data-headlessui-state="">
+                                            <dt class="text-xl md:text-2xl">
+                                                <button class="text-left w-full flex justify-between items-start text-gray-400 hover:text-white transition-colors" id="headlessui-disclosure-button-:R1emm:" type="button" aria-expanded="false" data-headlessui-state="">
+                                                    <span class="font-semibold text-gray-200 leading-relaxed pr-4">What is the Orexn Quest and how to earn rewards?</span>
+                                                    <span class="ml-6 h-7 flex items-center flex-shrink-0">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down rotate-0 h-7 w-7 transform transition-transform duration-200" aria-hidden="true">
+                                                            <path d="m6 9 6 6 6-6"></path>
+                                                        </svg>
+                                                    </span>
+                                                </button>
+                                            </dt>
+                                        </div>
+                                        <div class="pt-8" data-headlessui-state="">
+                                            <dt class="text-xl md:text-2xl">
+                                                <button class="text-left w-full flex justify-between items-start text-gray-400 hover:text-white transition-colors" id="headlessui-disclosure-button-:R1imm:" type="button" aria-expanded="false" data-headlessui-state="">
+                                                    <span class="font-semibold text-gray-200 leading-relaxed pr-4">What blockchains does Orexn support?</span>
+                                                    <span class="ml-6 h-7 flex items-center flex-shrink-0">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down rotate-0 h-7 w-7 transform transition-transform duration-200" aria-hidden="true">
+                                                            <path d="m6 9 6 6 6-6"></path>
+                                                        </svg>
+                                                    </span>
+                                                </button>
+                                            </dt>
+                                        </div>
+                                        <div class="pt-8" data-headlessui-state="">
+                                            <dt class="text-xl md:text-2xl">
+                                                <button class="text-left w-full flex justify-between items-start text-gray-400 hover:text-white transition-colors" id="headlessui-disclosure-button-:R1mmm:" type="button" aria-expanded="false" data-headlessui-state="">
+                                                    <span class="font-semibold text-gray-200 leading-relaxed pr-4">What is the whitelist for and how do I join?</span>
+                                                    <span class="ml-6 h-7 flex items-center flex-shrink-0">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down rotate-0 h-7 w-7 transform transition-transform duration-200" aria-hidden="true">
+                                                            <path d="m6 9 6 6 6-6"></path>
+                                                        </svg>
+                                                    </span>
+                                                </button>
+                                            </dt>
+                                        </div>
+                                    </dl>
+                                </div>
+                            </section>
+                            <div class="jsx-f424c622a57dee99 relative overflow-hidden">
+                                <div class="jsx-f424c622a57dee99 absolute inset-0">
+                                    <div class="jsx-f424c622a57dee99 absolute top-1/4 left-1/3 w-96 h-96 bg-gradient-to-br from-brand/10 via-brand/5 to-transparent rounded-full blur-3xl opacity-60 animate-pulse"></div>
+                                    <div class="jsx-f424c622a57dee99 absolute bottom-1/3 right-1/4 w-80 h-80 bg-gradient-to-br from-bluec/10 via-bluec/5 to-transparent rounded-full blur-3xl opacity-50 animate-pulse"></div>
+                                    <div class="jsx-f424c622a57dee99 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gradient-to-r from-orangec/8 via-indigoc/8 to-brand/8 rounded-full blur-3xl opacity-40"></div>
+                                    <div class="jsx-f424c622a57dee99 absolute top-20 right-20 w-32 h-32 bg-gradient-to-br from-purple-500/10 to-pink-500/10 rounded-full blur-2xl opacity-30 animate-pulse"></div>
+                                    <div class="jsx-f424c622a57dee99 absolute bottom-20 left-20 w-40 h-40 bg-gradient-to-br from-cyan-500/10 to-blue-500/10 rounded-full blur-2xl opacity-30 animate-pulse"></div>
+                                </div>
+                                <div class="jsx-f424c622a57dee99 flex flex-col max-w-7xl mx-auto px-4 relative z-10 pt-14 md:pt-40 pb-24">
+                                    <div class="jsx-f424c622a57dee99 text-center mb-10 lg:mb-10">
+                                        <img alt="" loading="lazy" width="600" height="600" decoding="async" data-nimg="1" class="object-cover opacity-100 w-36 mx-auto" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flove.b750c07a.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flove.b750c07a.png&amp;w=1200&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flove.b750c07a.png&amp;w=1200&amp;q=75"/>
+                                        <h2 class="jsx-f424c622a57dee99 __className_7620cf text-6xl md:text-8xl tracking-tight font-bold bg-white bg-clip-text text-transparent mb-6 drop-shadow-2xl">Join the Community</h2>
+                                    </div>
+                                    <div class="jsx-f424c622a57dee99 grid grid-cols-4 gap-3 md:gap-6 mb-10 lg:mb-24 max-w-sm md:max-w-none mx-auto">
+                                        <a target="_blank" class="group relative flex flex-col items-center  transition-all duration-300 rounded-full hover:shadow-xl" href="https://x.com/OrexnX">
+                                            <div class="flex items-center justify-center rounded-3xl bg-ccc/50 group-hover:scale-110 transition-transform duration-300 md:w-20 md:h-20 w-20 h-20 mb-0">
+                                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="text-white md:text-[28px] text-[20px]" height="38" width="38" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"></path>
+                                                </svg>
+                                            </div>
+                                        </a>
+                                        <a target="_blank" class="group relative flex flex-col items-center  transition-all duration-300 rounded-full hover:shadow-xl" href="https://t.me/OrexnApp">
+                                            <div class="flex items-center justify-center rounded-3xl bg-bluec group-hover:scale-110 transition-transform duration-300 md:w-20 md:h-20 w-20 h-20 mb-0">
+                                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" class="text-white md:text-[28px] text-[20px]" height="38" width="38" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"></path>
+                                                </svg>
+                                            </div>
+                                        </a>
+                                        <a target="_blank" class="group relative flex flex-col items-center  transition-all duration-300 rounded-full hover:shadow-xl" href="https://medium.com/@orexn">
+                                            <div class="flex items-center justify-center rounded-3xl bg-green-600 group-hover:scale-110 transition-transform duration-300 md:w-20 md:h-20 w-20 h-20 mb-0">
+                                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class="text-white md:text-[28px] text-[20px]" height="38" width="38" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M71.5 142.3c.6-5.9-1.7-11.8-6.1-15.8L20.3 72.1V64h140.2l108.4 237.7L364.2 64h133.7v8.1l-38.6 37c-3.3 2.5-5 6.7-4.3 10.8v272c-.7 4.1 1 8.3 4.3 10.8l37.7 37v8.1H307.3v-8.1l39.1-37.9c3.8-3.8 3.8-5 3.8-10.8V171.2L241.5 447.1h-14.7L100.4 171.2v184.9c-1.1 7.8 1.5 15.6 7 21.2l50.8 61.6v8.1h-144v-8L65 377.3c5.4-5.6 7.9-13.5 6.5-21.2V142.3z"></path>
+                                                </svg>
+                                            </div>
+                                        </a>
+                                        <a target="_blank" class="group relative flex flex-col items-center  transition-all duration-300 rounded-full hover:shadow-xl" href="https://www.youtube.com/@OrexnApp">
+                                            <div class="flex items-center justify-center rounded-3xl bg-red-600 group-hover:scale-110 transition-transform duration-300 md:w-20 md:h-20 w-20 h-20 mb-0">
+                                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class="text-white md:text-[28px] text-[20px]" height="38" width="38" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M508.64 148.79c0-45-33.1-81.2-74-81.2C379.24 65 322.74 64 265 64h-18c-57.6 0-114.2 1-169.6 3.6C36.6 67.6 3.5 104 3.5 149 1 184.59-.06 220.19 0 255.79q-.15 53.4 3.4 106.9c0 45 33.1 81.5 73.9 81.5 58.2 2.7 117.9 3.9 178.6 3.8q91.2.3 178.6-3.8c40.9 0 74-36.5 74-81.5 2.4-35.7 3.5-71.3 3.4-107q.34-53.4-3.26-106.9zM207 353.89v-196.5l145 98.2z"></path>
+                                                </svg>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="jsx-f424c622a57dee99 relative">
+                                        <div class="jsx-f424c622a57dee99 absolute inset-0 bg-gradient-to-br from-brand/20 via-transparent to-bluec/20 rounded-3xl blur-3xl opacity-50"></div>
+                                        <div class="jsx-f424c622a57dee99 relative bg-gradient-to-br from-white/10 via-white/5 to-transparent backdrop-blur-2xl border border-white/20 rounded-3xl py-20 px-8 md:px-20 shadow-2xl text-center overflow-hidden">
+                                            <div class="jsx-f424c622a57dee99 absolute inset-0 opacity-10">
+                                                <div style="background-image:radial-gradient(circle at 2px 2px, rgba(255,255,255,0.3) 1px, transparent 0);background-size:30px 30px;animation:float 6s ease-in-out infinite" class="jsx-f424c622a57dee99 absolute inset-0"></div>
+                                            </div>
+                                            <div class="jsx-f424c622a57dee99 relative z-10">
+                                                <h3 class="jsx-f424c622a57dee99 __className_7620cf text-4xl md:text-7xl tracking-tight font-bold bg-gradient-to-r from-white via-white to-white bg-clip-text text-transparent mb-6">Stay Updated</h3>
+                                                <p class="jsx-f424c622a57dee99 text-xl md:text-2xl font-light text-neutral-300/90 mb-12 pt-3 max-w-3xl mx-auto leading-relaxed">Get the latest updates, exclusive insights, and early access to the Orexn ecosystem</p>
+                                                <form class="jsx-f424c622a57dee99 flex flex-row max-w-3xl mx-auto gap-3 md:gap-6">
+                                                    <div class="jsx-f424c622a57dee99 relative flex-1">
+                                                        <input placeholder="Enter your email" id="cta-email" type="email" class="jsx-f424c622a57dee99 w-full bg-white/10 backdrop-blur-md text-white border border-white/30 rounded-2xl text-base md:text-lg px-4 md:px-8 py-4 md:py-5 placeholder:text-neutral-400 focus:outline-none focus:ring-4 focus:ring-brand/30 focus:border-brand/50 transition-all duration-300 shadow-lg" value=""/>
+                                                        <div class="jsx-f424c622a57dee99 absolute inset-0 bg-gradient-to-r from-brand/20 to-bluec/20 rounded-2xl opacity-0 focus-within:opacity-100 transition-opacity duration-300 -z-10 blur-xl"></div>
+                                                    </div>
+                                                    <button type="submit" class="jsx-f424c622a57dee99 relative overflow-hidden text-neutral-100 bg-gradient-to-r from-redc to-red-600 hover:from-redc/90 hover:to-red-600/90 transition-all duration-300 rounded-2xl py-4 md:py-5 px-6 md:px-10 text-base md:text-lg font-bold whitespace-nowrap transform hover:scale-105 shadow-2xl shadow-redc/30 disabled:opacity-50 disabled:cursor-not-allowed backdrop-blur-sm">
+                                                        <div class="jsx-f424c622a57dee99 absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
+                                                        <span class="jsx-f424c622a57dee99 relative z-10">
+                                                            <span class="jsx-f424c622a57dee99 hidden sm:inline">Subscribe Now</span>
+                                                            <span class="jsx-f424c622a57dee99 sm:hidden">Subscribe</span>
+                                                        </span>
+                                                    </button>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <section class="Toastify" aria-live="polite" aria-atomic="false" aria-relevant="additions text" aria-label="Notifications Alt+T"></section>
+                                </div>
+                                <div class="jsx-f424c622a57dee99 absolute inset-0 opacity-5 pointer-events-none">
+                                    <div style="background-image:radial-gradient(circle at 1px 1px, rgba(255,255,255,0.2) 1px, transparent 0);background-size:25px 25px" class="jsx-f424c622a57dee99 absolute inset-0"></div>
+                                </div>
+                            </div>
+                        </main>
+                    </main>
+                </div>
+                <footer class="bg-neutral-900 border-t border-white/10">
+                    <div class="mx-auto max-w-4xl px-4 py-16">
+                        <div class="flex flex-col items-center text-center space-y-8">
+                            <div class="text-2xl font-semibold text-white">
+                                <img alt="Orexn" loading="eager" width="1565" height="390" decoding="async" data-nimg="1" class="h-8 w-auto md:h-10 mx-auto" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=1920&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=3840&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Forexnweb1.79b5d591.png&amp;w=3840&amp;q=75"/>
+                            </div>
+                            <p class="text-lg md:text-xl text-neutral-400 leading-relaxed max-w-2xl">The Launch Space for Web3 Communities</p>
+                            <div class="flex items-center gap-8 md:gap-10">
+                                <a class="text-neutral-500 hover:text-neutral-300 transition-colors transform hover:scale-110 duration-300" aria-label="Twitter" href="https://x.com/OrexnX">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="md:w-8 md:h-8" height="28" width="28" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"></path>
+                                    </svg>
+                                </a>
+                                <a class="text-neutral-500 hover:text-neutral-300 transition-colors transform hover:scale-110 duration-300" aria-label="Medium" href="https://medium.com/@orexn">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class="md:w-8 md:h-8" height="28" width="28" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M71.5 142.3c.6-5.9-1.7-11.8-6.1-15.8L20.3 72.1V64h140.2l108.4 237.7L364.2 64h133.7v8.1l-38.6 37c-3.3 2.5-5 6.7-4.3 10.8v272c-.7 4.1 1 8.3 4.3 10.8l37.7 37v8.1H307.3v-8.1l39.1-37.9c3.8-3.8 3.8-5 3.8-10.8V171.2L241.5 447.1h-14.7L100.4 171.2v184.9c-1.1 7.8 1.5 15.6 7 21.2l50.8 61.6v8.1h-144v-8L65 377.3c5.4-5.6 7.9-13.5 6.5-21.2V142.3z"></path>
+                                    </svg>
+                                </a>
+                                <a class="text-neutral-500 hover:text-neutral-300 transition-colors transform hover:scale-110 duration-300" aria-label="Telegram" href="https://t.me/OrexnX">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" class="md:w-8 md:h-8" height="28" width="28" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"></path>
+                                    </svg>
+                                </a>
+                                <a class="text-neutral-500 hover:text-neutral-300 transition-colors transform hover:scale-110 duration-300" aria-label="Youtube" href="https://www.youtube.com/@OrexnApp">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 576 512" class="md:w-8 md:h-8" height="28" width="28" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                            <div class="pt-8 border-t border-white/10 w-full">
+                                <p class="text-base md:text-lg text-neutral-400">© 
+                                <!-- -->
+                                2025
+                                <!-- -->
+                                Orexn. All rights reserved.</p>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+        <script id="__NEXT_DATA__" type="application/json">
+            {
+                "props": {
+                    "pageProps": {
+                    }
+                },
+                "page": "/",
+                "query": {
+                },
+                "buildId": "lY1CRBmXqlubC2Aq2h1N_",
+                "nextExport": true,
+                "autoExport": true,
+                "isFallback": false,
+                "scriptLoader": [
+                ]
+            }</script>
+    </body>
+</html>
